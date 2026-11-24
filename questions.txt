@@ -1,0 +1,22 @@
+NOSQL MOD 4
+- 1 Definition & Basic Concept and How Sharding Works
+- Understanding the Components of a Cluster
+- One-Minute Test Setup
+- Configuring Sharding
+- How MongoDB Tracks Cluster Data
+- Three Basic Distributions 
+- Shard Key Strategies
+- Checklist Before Sharding a Collection
+- [SLT] Using a Cluster for Multiple Databases and Collections, and Manual
+Sharding
+
+
+
+
+NOSQL MOD 5
+- RDBMS and ACID
+- Isolation Levels and Isolation Strategies(Four Isolation Levels )
+- Distributed Database Example 3 cases
+- Consistency, Availability, Partition Tolerance (CAP Theorem)
+- Compromising on Availability,Compromising on Partition Tolerance,Compromising on Consistency
+- Linear Scalability (laws)
